@@ -1,5 +1,4 @@
 Project Started 
-There are 6 unique words in the text 
+There are 8 letters in the text 
 There are 3 unique words in the text 
-There are 24 letters in the text 
-There are 3 matches 
+There are 2 matches 
